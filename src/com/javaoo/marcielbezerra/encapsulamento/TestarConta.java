@@ -1,4 +1,4 @@
-package marcielbezerra.encapsulamento;
+package com.javaoo.marcielbezerra.encapsulamento;
 
 public class TestarConta extends ContaCorrente {
 
