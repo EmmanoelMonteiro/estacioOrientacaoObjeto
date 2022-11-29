@@ -1,7 +1,5 @@
 package com.javaoo.Alexandre.heranca;
 
-import com.javaoo.Alexandre.heranca.Cliente;
-import com.javaoo.Alexandre.heranca.Funcionario;
 
 public class Inicial {
 
